@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EkoNigthmare\\Documents\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj": {}
+    "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EkoNigthmare\\Documents\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj": {
+    "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EkoNigthmare\\Documents\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
         "projectName": "EDUCONTROL",
-        "projectPath": "C:\\Users\\EkoNigthmare\\Documents\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
-        "packagesPath": "C:\\Users\\EkoNigthmare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EkoNigthmare\\Documents\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\EkoNigthmare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
