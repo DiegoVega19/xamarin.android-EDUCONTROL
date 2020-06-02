@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+=======
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+>>>>>>> 42109ac15293416f199a579baf6926bfec7e72d3
   <PropertyGroup>
     <SelectedDevice>VisualStudio_android-23_arm_phone</SelectedDevice>
     <DefaultDevice>VisualStudio_android-23_arm_phone</DefaultDevice>
     <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
+<<<<<<< HEAD
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+=======
+>>>>>>> 42109ac15293416f199a579baf6926bfec7e72d3
   </PropertyGroup>
 </Project>

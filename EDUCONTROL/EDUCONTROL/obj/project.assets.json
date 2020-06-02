@@ -1551,26 +1551,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Oliver Traña\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
+      "projectUniqueName": "C:\\Users\\Oliver Traña\\3D Objects\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
       "projectName": "EDUCONTROL",
-      "projectPath": "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\android\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\obj\\",
+      "projectPath": "C:\\Users\\Oliver Traña\\3D Objects\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\EDUCONTROL.csproj",
+      "packagesPath": "C:\\Users\\Oliver Traña\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oliver Traña\\3D Objects\\xamarin.android-EDUCONTROL\\EDUCONTROL\\EDUCONTROL\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Oliver Traña\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
